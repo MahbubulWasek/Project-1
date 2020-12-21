@@ -29,7 +29,7 @@ There are 3 datasets used here to provide the answers related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://mwase009.medium.com/can-we-guess-the-airbnb-home-prices-in-boston-2b1ce3a96c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
